@@ -11,25 +11,25 @@ Key features of this project include:
 ### Results
 
 #### 1. Author Identification Model Accuracies
-<img src="./pic1.png" alt="Author Identification Accuracy" width="45%"/> <img src="./pic2.png" alt="Author Identification Accuracy" width="45%"/>
+<img src="./pic1.png" alt="Author Identification Accuracy" width="47%"/> <img src="./pic2.png" alt="Author Identification Accuracy" width="47%"/>
 
 #### 2. Utility Results - LIWC Analysis
 
-<img src="./pic4.png" alt="Author Identification Accuracy" width="45%"/>
+<img src="./pic4.png" alt="Author Identification Accuracy" width="55%"/>
 
 ### Feature Importance
 
 #### 1. Feature Importance for Identifying Authors Writing About the Same Topic
 
-![Feature Importance - Same Topic](path/to/feature_importance_same_topic.png)
+![Feature Importance - Same Topic](./reuter_same.png)
 
 #### 2. Feature Importance for Identifying Authors Writing About Different Topics
 
-![Feature Importance - Different Topics](path/to/feature_importance_different_topics.png)
+![Feature Importance - Different Topics](./reuter_different.png)
 
 #### 3. Feature Importance for Identifying Holocaust Interviewees
 
-<img src="./pic3.png" alt="Author Identification Accuracy" width="70%"/>
+![Feature Importance - Same Topic](./pic3.png)
 
 
 ### Contact Us
