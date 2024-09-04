@@ -2,4 +2,4 @@
 
 
 > Contact us:
-. Yamini Sinha: yamini.sinha@ovgu.de
+Yamini Sinha: yamini.sinha@ovgu.de
