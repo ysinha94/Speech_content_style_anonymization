@@ -2,7 +2,7 @@
 
 Recent efforts in speech privacy have predominantly focused on anonymizing acoustic speaker attributes, with less emphasis on protecting information conveyed through speech content. Although some research has addressed speech content privacy through content masking and text anonymization by removing personally identifiable information (PII), anonymizing the content style – the "how" of what's said – remains largely unexplored. This paper addresses the challenge of safeguarding information revealed through speech style, not just speaker identity. Inspired by authorship obfuscation techniques, we anonymize the stylistic characteristics of spoken language, crucial in healthcare settings where speech analysis can reveal personal details. Our method paraphrases content style while preserving the original content. Using natural language processing, we identify and de-identify unique speech patterns of individuals. Results show a significant decline in identification accuracy, from 70\% for the original text to 24\% for the paraphrased text of interview transcripts, indicating a substantial level of authorship obfuscation. We evaluated the utility of the anonymized text with the LIWC tool, focusing on tone and positive and negative emotions.
 
-[**doi**]: 10.21437/SPSC.2024-16
+**doi**: [10.21437/SPSC.2024-16](10.21437/SPSC.2024-16)
 
 Key features of this project include:
 - **Stylometry-based speech analysis**: Identifying unique stylistic elements in text style patterns (40 most important stylistic features can be seen below ([see Feature Importance](#feature-importance)) and obfuscating them.
