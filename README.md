@@ -44,13 +44,3 @@ For more information about this project, please feel free to reach out:
 
 We welcome any questions or feedback related to the project.
 
-**Cite as**: Sinha, Y., Raivakhovskyi, M., Schubert, M., Siegert, I. (2024) Safeguarding Speech Content Style: Enhancing Privacy Beyond Speaker Identity. Proc. 4th Symposium on Security and Privacy in Speech Communication, 92-101, doi: 10.21437/SPSC.2024-16
-
-@inproceedings{sinha24_spsc,
-  title     = {Safeguarding Speech Content Style: Enhancing Privacy Beyond Speaker Identity},
-  author    = {Yamini Sinha and Mykola Raivakhovskyi and Martha Schubert and Ingo Siegert},
-  year      = {2024},
-  booktitle = {4th Symposium on Security and Privacy in Speech Communication},
-  pages     = {92--101},
-  doi       = {10.21437/SPSC.2024-16},
-}
